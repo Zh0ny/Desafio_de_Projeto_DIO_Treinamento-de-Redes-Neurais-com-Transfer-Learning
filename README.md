@@ -29,6 +29,11 @@ O código realiza as seguintes etapas:
    - Avalia o desempenho do modelo com Transfer Learning no conjunto de teste.
    - Demonstra como usar o modelo para prever a classe de uma nova imagem.
 
+5. **Conjunto de Dados:"
+   - Foram utilizadas 2 classes: Arara Canindé e Coruja da Igreja.
+   - Cada Classe contém 100 imagens com licença creative commons.
+   - Esse conjunto de dados utiliza técnicas de data augmentation.
+   - Link para download: https://drive.google.com/drive/folders/1xq0g7YDThdUgcDaUpjTmQB1hOyDEycQK?usp=sharing
 
 ## Dependências
 
